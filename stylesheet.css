@@ -1,0 +1,60 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://cdn.pixabay.com/photo/2023/05/30/15/53/landscape-8029037_1280.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20px; /* Add padding to ensure content is visible */
+  color: black;
+}
+
+.card {
+  border-radius: 4px;
+  text-align: center;
+  color: #007bff;
+  padding: 10px;
+  margin-top: 5px;
+  max-width: 21.1875rem;
+  margin-left: 415px;
+}
+
+h1 {
+ 
+  text-align: center;
+  color: #007bff;
+  font-weight: bolder;
+  font-size: 60px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: aliceblue;
+  
+}
+
+
+.card-content {
+  text-align: center;
+  color: #007bff;
+  background-color: aliceblue;
+}
+
+.subheader {
+  font-size: 50px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #007bff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+  font-size: 50px;
+  margin: 0;
+  color: blue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+  width: 100%;
+  border-radius: 4px;
+}
